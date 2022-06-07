@@ -1,0 +1,6 @@
+bams/
+
+manta/MantaWorkflow/
+manta/slurm-*.out
+
+parabricks_manta/4458.manta_work/
