@@ -2,7 +2,7 @@
 
 ## General info
 
-This relates to the [Genomics Aotearoa clinical genomics project](https://www.genomics-aotearoa.org.nz/our-work/completed-projects/clinical-genomics) undertaken by the human genomics group at ESR. Testing structural variant (SV) callers for illumina germline whole genome sequence (WGS) data (human).
+This relates to the [Genomics Aotearoa clinical genomics project](https://www.genomics-aotearoa.org.nz/our-work/completed-projects/clinical-genomics) undertaken by the human genomics group at ESR. Testing structural variant (SV) callers for illumina germline whole genome sequence (WGS) data (human) and figuring out how to connect them up to [scout](https://github.com/Clinical-Genomics/scout).
 
 ## Raw data location
 
