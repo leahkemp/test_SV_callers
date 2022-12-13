@@ -1,0 +1,7 @@
+name: gsutil
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - gsutil=5.11

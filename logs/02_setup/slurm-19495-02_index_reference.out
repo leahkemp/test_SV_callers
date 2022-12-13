@@ -1,0 +1,89 @@
+
+Configuring conda
+
+no change     /home/lkemp/miniconda3/condabin/conda
+no change     /home/lkemp/miniconda3/bin/conda
+no change     /home/lkemp/miniconda3/bin/conda-env
+no change     /home/lkemp/miniconda3/bin/activate
+no change     /home/lkemp/miniconda3/bin/deactivate
+no change     /home/lkemp/miniconda3/etc/profile.d/conda.sh
+no change     /home/lkemp/miniconda3/etc/fish/conf.d/conda.fish
+no change     /home/lkemp/miniconda3/shell/condabin/Conda.psm1
+no change     /home/lkemp/miniconda3/shell/condabin/conda-hook.ps1
+no change     /home/lkemp/miniconda3/lib/python3.7/site-packages/xontrib/conda.xsh
+no change     /home/lkemp/miniconda3/etc/profile.d/conda.csh
+no change     /home/lkemp/.bashrc
+No action taken.
+
+Creating conda environment with samtools installed
+
+conda-forge/linux-64                                        Using cache
+conda-forge/noarch                                          Using cache
+bioconda/linux-64                                           Using cache
+bioconda/noarch                                             Using cache
+Transaction
+
+  Prefix: /home/lkemp/miniconda3/envs/samtools
+
+  Updating specs:
+
+   - samtools=1.15.1
+
+
+  Package                 Version  Build        Channel                    Size
+─────────────────────────────────────────────────────────────────────────────────
+  Install:
+─────────────────────────────────────────────────────────────────────────────────
+
+  + _libgcc_mutex             0.1  conda_forge  conda-forge/linux-64     Cached
+  + _openmp_mutex             4.5  2_gnu        conda-forge/linux-64     Cached
+  + bzip2                   1.0.8  h7f98852_4   conda-forge/linux-64     Cached
+  + c-ares                 1.18.1  h7f98852_0   conda-forge/linux-64     Cached
+  + ca-certificates     2022.6.15  ha878542_0   conda-forge/linux-64     Cached
+  + htslib                 1.15.1  h9753748_0   bioconda/linux-64        Cached
+  + keyutils                1.6.1  h166bdaf_0   conda-forge/linux-64     Cached
+  + krb5                   1.19.3  h3790be6_0   conda-forge/linux-64     Cached
+  + libcurl                7.83.1  h7bff187_0   conda-forge/linux-64     Cached
+  + libdeflate               1.10  h7f98852_0   conda-forge/linux-64     Cached
+  + libedit          3.1.20191231  he28a2e2_2   conda-forge/linux-64     Cached
+  + libev                    4.33  h516909a_1   conda-forge/linux-64     Cached
+  + libgcc-ng              12.1.0  h8d9b700_16  conda-forge/linux-64     Cached
+  + libgomp                12.1.0  h8d9b700_16  conda-forge/linux-64     Cached
+  + libnghttp2             1.47.0  hdcd2b5c_1   conda-forge/linux-64     Cached
+  + libssh2                1.10.0  haa6b8db_3   conda-forge/linux-64     Cached
+  + libstdcxx-ng           12.1.0  ha89aaad_16  conda-forge/linux-64     Cached
+  + libzlib                1.2.12  h166bdaf_2   conda-forge/linux-64     Cached
+  + ncurses                   6.3  h27087fc_1   conda-forge/linux-64     Cached
+  + openssl                1.1.1q  h166bdaf_0   conda-forge/linux-64     Cached
+  + samtools               1.15.1  h1170115_0   bioconda/linux-64        Cached
+  + xz                      5.2.6  h166bdaf_0   conda-forge/linux-64     Cached
+  + zlib                   1.2.12  h166bdaf_2   conda-forge/linux-64     Cached
+
+  Summary:
+
+  Install: 23 packages
+
+  Total download: 0 B
+
+─────────────────────────────────────────────────────────────────────────────────
+
+
+
+Looking for: ['samtools=1.15.1']
+
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+#
+# To activate this environment, use
+#
+#     $ conda activate samtools
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+
+Indexing reference genome
+

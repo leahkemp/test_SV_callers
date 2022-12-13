@@ -1,0 +1,36 @@
+
+Getting scout
+
+time="2022-08-23T13:11:26+12:00" level=warning msg="\"/run/user/1372\" directory set by $XDG_RUNTIME_DIR does not exist. Either create the directory or unset $XDG_RUNTIME_DIR.: stat /run/user/1372: no such file or directory: Trying to pull image in the event that it is a public image."
+INFO:    Using cached SIF image
+Cloning into '/NGS/scratch/KSCBIOM/HumanGenomics/test_SV_callers/results/04_compare_vcf/scout'...
+Updating files:  33% (320/943)Updating files:  34% (321/943)Updating files:  35% (331/943)Updating files:  36% (340/943)Updating files:  37% (349/943)Updating files:  38% (359/943)Updating files:  39% (368/943)Updating files:  40% (378/943)Updating files:  41% (387/943)Updating files:  42% (397/943)Updating files:  43% (406/943)Updating files:  44% (415/943)Updating files:  45% (425/943)Updating files:  46% (434/943)Updating files:  47% (444/943)Updating files:  48% (453/943)Updating files:  49% (463/943)Updating files:  50% (472/943)Updating files:  51% (481/943)Updating files:  52% (491/943)Updating files:  53% (500/943)Updating files:  54% (510/943)Updating files:  55% (519/943)Updating files:  56% (529/943)Updating files:  57% (538/943)Updating files:  58% (547/943)Updating files:  59% (557/943)Updating files:  60% (566/943)Updating files:  61% (576/943)Updating files:  62% (585/943)Updating files:  63% (595/943)Updating files:  64% (604/943)Updating files:  64% (607/943)Updating files:  65% (613/943)Updating files:  66% (623/943)Updating files:  67% (632/943)Updating files:  68% (642/943)Updating files:  69% (651/943)Updating files:  70% (661/943)Updating files:  71% (670/943)Updating files:  72% (679/943)Updating files:  73% (689/943)Updating files:  74% (698/943)Updating files:  75% (708/943)Updating files:  76% (717/943)Updating files:  77% (727/943)Updating files:  78% (736/943)Updating files:  79% (745/943)Updating files:  80% (755/943)Updating files:  81% (764/943)Updating files:  82% (774/943)Updating files:  83% (783/943)Updating files:  84% (793/943)Updating files:  85% (802/943)Updating files:  86% (811/943)Updating files:  87% (821/943)Updating files:  88% (830/943)Updating files:  89% (840/943)Updating files:  90% (849/943)Updating files:  91% (859/943)Updating files:  92% (868/943)Updating files:  93% (877/943)Updating files:  94% (887/943)Updating files:  95% (896/943)Updating files:  96% (906/943)Updating files:  97% (915/943)Updating files:  98% (925/943)Updating files:  98% (929/943)Updating files:  99% (934/943)Updating files: 100% (943/943)Updating files: 100% (943/943), done.
+time="2022-08-23T13:12:09+12:00" level=warning msg="\"/run/user/1372\" directory set by $XDG_RUNTIME_DIR does not exist. Either create the directory or unset $XDG_RUNTIME_DIR.: stat /run/user/1372: no such file or directory: Trying to pull image in the event that it is a public image."
+INFO:    Using cached SIF image
+Note: switching to 'tags/v4.57.4'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at cf24ed31b Prepare patch release 4.57.4
+
+Getting head of demo SV vcf files and my SV vcf files
+
+
+Getting the number variants in demo SV vcf files and my SV vcf files
+
+
+Cleaning up
+
