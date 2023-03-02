@@ -19,8 +19,7 @@ This relates to the [Genomics Aotearoa clinical genomics project](https://www.ge
 - [02 - Setup](https://github.com/leahkemp/test_SV_callers/blob/main/docs/analysis_docs/02_setup.md)
 - [03 - Test manta](https://github.com/leahkemp/test_SV_callers/blob/main/docs/analysis_docs/03_test_manta.md)
 - [04 - Compare vcf](https://github.com/leahkemp/test_SV_callers/blob/main/docs/analysis_docs/04_compare_vcf.md)
-- [05 - Annotate vcf](https://github.com/leahkemp/test_SV_callers/blob/main/docs/analysis_docs/05_annotate_vcf.md)
-- [06 - Clean up](https://github.com/leahkemp/test_SV_callers/blob/main/docs/analysis_docs/06_cleanup.md)
+- [05 - Clean up](https://github.com/leahkemp/test_SV_callers/blob/main/docs/analysis_docs/05_cleanup.md)
 
 ## Access
 
